@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Modal from './Modal'
+import Modal from '.
 
 
 export default class Test extends Component {
