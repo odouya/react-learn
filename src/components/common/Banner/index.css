@@ -1,3 +1,5 @@
 .banner-container {
-    border: solid 2px black
+    position: relative;
+    border: solid 2px black;
+    overflow: hidden;
 }

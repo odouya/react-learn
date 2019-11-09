@@ -15,7 +15,9 @@ export default class Test extends Component {
             <div 
                 className="container"
             >
-                <Banner imgSrcs={[src1, src2, src3, src4, src5]} />
+                <Banner imgSrcs={[src1, src2, src3, src4, src5]} 
+                duration = {1000} 
+                autoDuration = {3000}/>
             </div>
         )
     }

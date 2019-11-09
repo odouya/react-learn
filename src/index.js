@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App'
+import App from './App'
 
 
 // var appkey = "demo13_1545210570249";
