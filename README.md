@@ -5,6 +5,15 @@
     const [visible, setVisible] = useState(true);
 ```
 
+一个函数组件，可以用多个状态。
+
+## State Hook 原理
+1. 当运行一个函数组件时（调用该函数) 
+- 1.1 调用useState
+- 1.2 检查该节点的状态表格
+    - 1.2.1 状态表格中无内空
+    - 1.2.2 使用 
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
