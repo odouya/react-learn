@@ -1,3 +1,12 @@
+
+# State Hook
+```js
+    const [n, setN] = useState(0);
+    const [visible, setVisible] = useState(true);
+```
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
